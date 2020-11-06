@@ -1,5 +1,5 @@
 # example-tfserve-mnist
-To be used in combination with the [`👨‍🍳  TensorFlow serve`](https://github.com/dploy-ai/example-tfserve-mnist) guide!
+To be used in combination with the [`👨‍🍳  TensorFlow serve`](https://docs.dploy.ai/docs/tfserve) guide!
 
 <div class="devsite-table-wrapper"><table class="tfo-notebook-buttons" align="left">
 <tr>
